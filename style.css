@@ -1,0 +1,170 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#headerdiv{
+    height: 90px;
+    width: 1384px;
+    /* background-color: aquamarine; */
+    display: flex;
+}
+
+#img{
+    height: 90px;
+    width: 500px;
+    /* background-color: blue; */
+    /* padding-left: 30px; */
+
+}
+img{
+    padding-left: 20px;
+    padding-top: 13px;
+}
+
+/* *******************imgend********************** */
+
+
+#firstcomponent{
+    height: 90px;
+    width: 80px;
+    /* background-color: brown; */
+}
+
+#underfirstone{
+    padding-left:20px;
+    padding-top:30px;
+    font-family: 'Barlow, sans-serif';
+}
+
+
+
+
+#secondcomponent{
+    height: 90px;
+    width: 140px;
+    /* background-color: rgb(42, 118, 165); */
+}
+
+#undersecondone{
+    padding-left: 11px;
+    padding-top:30px;
+    font-family: 'Barlow, sans-serif';
+}
+
+
+
+#thirdcomponent{
+    height: 90px;
+    width: 110px;
+    /* background-color: brown; */
+}
+
+#underthirdone{
+    padding-left: 15px;
+    padding-top:30px;
+    font-family: 'Barlow, sans-serif';
+}
+
+
+
+
+
+#fourthcomponent{
+    height: 90px;
+    width: 90px;
+    /* background-color: rgb(116, 165, 42); */
+}
+
+#underfourthone{
+    padding-left: 15px;
+    padding-top:30px;
+    font-family: 'Barlow, sans-serif';
+}
+
+
+
+
+
+#fifthcomponent{
+    height: 90px;
+    width: 130px;
+    /* background-color: rgb(165, 138, 42); */
+}
+
+#underfifthone{
+    padding-left: 17px;
+    padding-top:30px;
+    font-family: 'Barlow, sans-serif';
+}
+
+
+
+
+
+#sixthcomponent{
+    height: 90px;
+    width: 100px;
+    /* background-color: rgb(165, 42, 120); */
+}
+
+#undersixthone{
+    padding-left: 13px;
+    padding-top:30px;
+    font-family: 'Barlow, sans-serif';
+}
+
+
+
+
+
+#sevencomponent{
+    height: 90px;
+    width: 105px;
+    /* background-color: rgb(42, 165, 99); */
+}
+
+#undersevenone{
+    padding-left: 15px;
+    padding-top:30px;
+    font-family: 'Barlow, sans-serif';
+}
+
+
+/* **************************************header end********************************** */
+
+
+#mainbody{
+    height: 600px;
+    width: 1380;
+    /* background-color: aqua; */
+    display: flex;
+}
+
+
+#mainp{
+    height: 500px;
+    width: 1200px;
+     /* background-color: blueviolet; */
+    margin-left: 120px;
+    padding-top: 120px;
+    font-size: 60px;
+    font-family: 'teko','sans-serif';
+    font-weight: 700;
+}
+
+
+/* #mainptwo{
+    width: 500px;
+    height: 90px;
+    /* background-color: blue; */
+    margin-left: 120px;
+    /* padding-top: 120px; */
+    /* display: block; */
+    
+} */
+
+
+
+
+
